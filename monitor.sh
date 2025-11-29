@@ -1,5 +1,5 @@
 #!/bin/bash
-# Tech Health Monitor
+# Systems Health Monitor
 # A system monitoring tool for nonprofits and community organizations
 # Uses HAL-9000 personality for alerts, and offers logging and Email Alerts
 
@@ -14,7 +14,7 @@ RESET="\033[0m"
 # ================================
 
 echo "═══════════════════════════════════════════════"
-echo "      COMMUNITY TECH HEALTH MONITOR v1.0"
+echo "           SYSTEMS HEALTH MONITOR v1.0"
 echo " \"All systems functional. No need for concern.\""
 echo "═══════════════════════════════════════════════"
 echo ""

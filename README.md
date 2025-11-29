@@ -1,4 +1,4 @@
-# Tech Health Monitor
+# Systems Health Monitor
 
 **An easier Health Monitor for your systems**
 
@@ -48,7 +48,7 @@ nano monitor.sh
 ## **Sample Output**
 ```
 ═══════════════════════════════════════════════
-      COMMUNITY TECH HEALTH MONITOR v1.0
+      SYSTEMS HEALTH MONITOR v1.0
  "All systems functional. No need for concern."
 ═══════════════════════════════════════════════
 
@@ -84,7 +84,7 @@ Last Check: 2025-11-29 07:00:45
 
 ## **Perfect For**
 
-- Community tech centers
+- You
 - Public libraries
 - After-school programs
 - Small nonprofits
