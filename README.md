@@ -136,7 +136,8 @@ Last Check: 2025-11-29 07:00:45
 
 ## **License**
 
-MIT License - This tool is free for any nonprofit, community organization, or individual to use, modify, and distribute. Built to serve communities.
+MIT License - This tool is free for any nonprofit, community organization, or individual to use, modify, and distribute.
+
 ---
 
 ## **Author**
