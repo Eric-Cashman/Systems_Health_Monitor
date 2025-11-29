@@ -134,6 +134,11 @@ Last Check: 2025-11-29 07:00:45
 - No copyright code was used, all tests and logic was designed and tested independently.
 ---
 
+## **License**
+
+MIT License - This tool is free for any nonprofit, community organization, or individual to use, modify, and distribute. Built to serve communities.
+---
+
 ## **Author**
 
 * **Eric Cashman**
